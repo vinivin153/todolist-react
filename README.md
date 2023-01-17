@@ -1,6 +1,6 @@
 # Todo List
 
-https://vinivin153.github.io/todolist-react-frontend/
+https://vinivin153.github.io/todolist-react/
 
 ### 구현 기능
 * 추가
